@@ -1,12 +1,5 @@
-## Hi there 👋
+# Ciallo～(∠・ω&lt;)⌒☆
 
-<!--
+CialloJS 是一个 JavaScript / TypeScript 开源组织
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**开发语言**：TypeScript · JavaScript（Node.js ≥ 20，纯 ESM）
